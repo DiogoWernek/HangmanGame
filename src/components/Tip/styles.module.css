@@ -1,0 +1,26 @@
+.tip {
+  width: 100%;
+  padding: 1rem;
+
+  gap: 1rem;
+  display: flex;
+  align-items: center;
+
+  color: #4f4fb9;
+  border-radius: 0.62rem;
+  background-color: #ebebfc;
+}
+
+.tip h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.tip p {
+  font-size: 1rem;
+  margin-top: 0.31rem;
+}
+
+.tip > img {
+  height: 2rem;
+}
